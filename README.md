@@ -6,7 +6,7 @@ An end-to-end data analysis project: raw CSV files, loaded and cleaned in **SQL 
 
 Dashboard
 
-![Dashboard](Screenshot_2026-10-04_163026.png)
+image/dashboard.png
 
 Dashboard
 
