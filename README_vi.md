@@ -6,9 +6,7 @@ Một dự án phân tích dữ liệu toàn diện (End-to-End): bắt đầu t
 
 Dashboard
 
-![Dashboard](Screenshot_2026-10-04_163026.png)
-
-Dashboard
+![Dashboard](image/dashboard.png)
 
 ## Các câu hỏi kinh doanh (Business Questions)
 
