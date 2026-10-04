@@ -76,15 +76,16 @@ Pizzas per Order = DIVIDE ( [Total Pizzas], [Total Orders] )
 
 ```
 pizza-place-sales-analysis/
+├── image/
+│   └── dashboard.png
 ├── sql/
 │   ├── 01_setup_load_check.sql
 │   ├── 02_clean.sql
 │   ├── 03_analysis.sql
 │   └── 04_views.sql
-├── image/
-│   └── dashboard.png
 ├── PizzaPlace_Dashboard.pbix
 └── README.md
+└── README_vi.md
 ```
 
 ## Hướng dẫn tái hiện dự án (How to Reproduce)
