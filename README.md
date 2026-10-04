@@ -83,7 +83,7 @@ pizza-place-sales-analysis/
 │   ├── 02_clean.sql
 │   ├── 03_analysis.sql
 │   └── 04_views.sql
-├── images/
+├── image/
 │   └── dashboard.png
 ├── PizzaPlace_Dashboard.pbix
 └── README.md
